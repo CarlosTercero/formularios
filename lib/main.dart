@@ -43,7 +43,7 @@ class _HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return CodePage(
-      title: 'Flutter Form Builder',
+      title: 'Flutter Form Builder Carlos Farres S2Am',
       child: ListView(
         children: <Widget>[
           ListTile(
